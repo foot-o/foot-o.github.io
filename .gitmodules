@@ -1,0 +1,4 @@
+[submodule "sicomtrace"]
+	path = sicomtrace
+	url = https://github.com/tajfutas/sicomtrace.git
+	branch = gh-pages-hu
