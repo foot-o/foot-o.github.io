@@ -2,3 +2,7 @@
 	path = sicomtrace
 	url = https://github.com/tajfutas/sicomtrace.git
 	branch = gh-pages-hu
+[submodule "sicounter"]
+	path = sicounter
+	url = https://github.com/tajfutas/sicounter.git
+	branch = gh-pages-hu
